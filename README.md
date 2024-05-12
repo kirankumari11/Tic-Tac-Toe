@@ -1,6 +1,6 @@
 It's simple Tic TacToe game created using basic HTML, CSS and JavaScript.
 
-Rules to play this game:-
+**Rules to play this game:-**
 
 There will be 2 players: 
 Player 'O' and 'X'.
